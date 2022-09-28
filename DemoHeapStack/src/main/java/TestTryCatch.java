@@ -2,7 +2,7 @@ import java.io.IOException;
 
 public class TestTryCatch {
     public static void main(String[] args) {
-        int a = 3;
+        int a = 0;
 //        THROW
         if (a <= 0) throw new RuntimeException("nho hon khong ");
         else System.out.println("a lon hon khong ");
