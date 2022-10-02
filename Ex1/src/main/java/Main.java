@@ -1,3 +1,6 @@
+import game.Game;
+import game.GameFactory;
+
 public class Main {
 //    Làm bài toán đua ngựa:
 //Có 10 con ngựa cùng xuất phát cùng lúc.
@@ -5,9 +8,9 @@ public class Main {
 // Nếu con ngựa nào có quãng đường bằng tổng các bước chạy bằng đúng 100 thì con ngựa đó sẽ về đích và in ra: Con ngựa thứ xxx đã về đích với yyy bước chạy
 // Nếu quãng đường vượt quá 100, quãng đường sẽ bằng hiệu của nó với 100
     public static void main(String[] args) {
-        for (int i = 1; i < 11; i++) {
-            Horse horse = new Horse(i);
-            horse.start();
-        }
+
+        Game game = GameFactory.createGame("horse");
+        game.startGame();
     }
+
 }
