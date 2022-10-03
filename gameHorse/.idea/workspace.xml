@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6952d54-38e8-42f1-b0bd-fa2ac89e3ad3" name="Changes" comment="" />
+    <list default="true" id="f6952d54-38e8-42f1-b0bd-fa2ac89e3ad3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CQRSdemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CQRSdemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CQRSdemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoCQRS/src/main/java/com/example/democqrs/command/api/controller/ProductCommandController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoCQRS/src/main/java/com/example/democqrs/command/api/modal/ProductRestModal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/horse/BaseHorse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/horse/HorseStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex1/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/game/BaseGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/game/BaseGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/game/SingletonGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/game/SingletonGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/horse/BaseGameHorse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/horse/BaseGameHorse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/horse/GameHorse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/horse/GameHorse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/horse/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/horse/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/game/BaseGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/game/BaseGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/game/SingletonGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/game/SingletonGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/game/impl/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/game/impl/Sleep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/horse/BaseGameHorse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/horse/BaseGameHorse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/horse/GameHorse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/horse/GameHorse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/horse/Horse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/horse/Horse.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,17 +37,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Fa3XKXibGub4vPOMZfEOC2W0Gp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,14 +61,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/ASUS/Desktop/Unicloud/gameHorse"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="horse" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="horse" />
@@ -67,11 +101,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664716408800</updated>
-      <workItem from="1664716410693" duration="5671000" />
+      <workItem from="1664716410693" duration="6315000" />
+      <workItem from="1664769906293" duration="4140000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
