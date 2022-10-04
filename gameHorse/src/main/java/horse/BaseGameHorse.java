@@ -7,7 +7,7 @@ public class BaseGameHorse extends Horse implements BaseGame {
 
     @Override
     public void startGame() {
-//        System.out.println("Game Horse Start");
+        System.out.println("Game Horse Start .... ");
         start();
     }
 

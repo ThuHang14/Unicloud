@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="interface_abstract_epKieu_enum_wrapper" />
         <module name="day1" />
       </profile>
     </annotationProcessing>

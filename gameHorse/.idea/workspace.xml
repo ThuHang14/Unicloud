@@ -5,29 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6952d54-38e8-42f1-b0bd-fa2ac89e3ad3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CQRSdemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CQRSdemo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CQRSdemo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demoCQRS/src/main/java/com/example/democqrs/command/api/controller/ProductCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demoCQRS/src/main/java/com/example/democqrs/command/api/modal/ProductRestModal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/horse/BaseHorse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/horse/HorseStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex1/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex1/.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface_abstract_epKieu_enum_wrapper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface_abstract_epKieu_enum_wrapper/src/main/java/testInterface/Ab_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface_abstract_epKieu_enum_wrapper/src/main/java/testInterface/Ab_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface_abstract_epKieu_enum_wrapper/src/main/java/testInterface/In_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface_abstract_epKieu_enum_wrapper/src/main/java/testInterface/In_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface_abstract_epKieu_enum_wrapper/src/main/java/testInterface/In_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface_abstract_epKieu_enum_wrapper/src/main/java/testInterface/mainInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/game/BaseGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/game/BaseGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/game/SingletonGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/game/SingletonGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/horse/BaseGameHorse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/horse/BaseGameHorse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/horse/GameHorse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/horse/GameHorse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/horse/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/horse/Horse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/game/BaseGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/game/BaseGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/game/SingletonGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/game/SingletonGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/game/impl/Run.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/game/impl/Sleep.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/horse/BaseGameHorse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/horse/BaseGameHorse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/horse/GameHorse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/horse/GameHorse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/horse/Horse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/horse/Horse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interface_abstract_epKieu_enum_wrapper/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../interface_abstract_epKieu_enum_wrapper/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interface_abstract_epKieu_enum_wrapper/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../interface_abstract_epKieu_enum_wrapper/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interface_abstract_epKieu_enum_wrapper/target/classes/controller/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interface_abstract_epKieu_enum_wrapper/target/classes/controller/main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +56,8 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/ASUS/Desktop/Unicloud/gameHorse"
+    "last_opened_file_path": "C:/Users/ASUS/Desktop/Unicloud/demoCQRS",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -102,7 +94,8 @@
       <option name="presentableId" value="Default" />
       <updated>1664716408800</updated>
       <workItem from="1664716410693" duration="6315000" />
-      <workItem from="1664769906293" duration="4140000" />
+      <workItem from="1664769906293" duration="6798000" />
+      <workItem from="1664846914913" duration="636000" />
     </task>
     <servers />
   </component>
