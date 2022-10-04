@@ -1,6 +1,6 @@
 package com.example.democqrs;
 
-import com.example.democqrs.handle.user.GetUserIDetailHandler;
+import com.example.democqrs.handle.HandleSingleton;
 import com.example.democqrs.handle.user.GetUsersHandler;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,7 +8,6 @@ import org.springframework.context.ApplicationContext;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 @SpringBootApplication
 public class DemoCqrsApplication {
@@ -33,9 +32,11 @@ public class DemoCqrsApplication {
                 .map(context::getBean).toList();
 
         for (Object o : myBeans
-             ) {
-
+        ) {
+            HandleSingleton.getInstance().addHandle(o);
         }
+
+        System.out.println(HandleSingleton.getInstance().getAllHandle());
     }
 
 }
