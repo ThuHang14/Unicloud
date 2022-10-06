@@ -1,9 +1,9 @@
 package com.example.democqrs.controller;
 
-import com.example.democqrs.base.BaseController;
-import com.example.democqrs.base.BaseResponse;
-import com.example.democqrs.dto.request.GetUserDetailRequest;
-import com.example.democqrs.dto.request.GetUsersRequest;
+import com.example.democqrs.controller.base.BaseController;
+import com.example.democqrs.controller.base.BaseResponse;
+import com.example.democqrs.dto.request.user.GetUserDetailRequest;
+import com.example.democqrs.dto.request.user.GetUsersRequest;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -19,7 +19,7 @@ public class UserController extends BaseController {
         GetUserDetailRequest request = new GetUserDetailRequest(id);
         return execute(request);
     }
-
+// ResponseEntity tra ve loi , loi tu custom ?
 
     @GetMapping("")
     ResponseEntity<BaseResponse> getUsers() {
