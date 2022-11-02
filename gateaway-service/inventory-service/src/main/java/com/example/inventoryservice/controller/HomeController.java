@@ -8,14 +8,14 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/test")
-@RefreshScope
+@RefreshScope  //lam moi scope
 public class HomeController {
 
-    @Value("${test.name}")
-    private String name;
+//    @Value("${test.name}") //test name da cau hinh trong product.properties
+//    private String name;
 
 @GetMapping
     public String home(){
-    return name;
+    return "homecontroller";
 }
 }
